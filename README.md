@@ -40,7 +40,9 @@ node index.js
 
 Answer the prompts provided to complete your professional README.md file.
 
-Access video demo: 
+### Access video demo: 
+
+* https://www.youtube.com/watch?v=k1VVB97FkOA
 
 ## Credits
 Special thanks to the following instructors for their help:
