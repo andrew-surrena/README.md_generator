@@ -1,7 +1,7 @@
 # Basketball Team Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
   ## Description
-  Track your favorite NBA team as they progress through the season. Track wins, losses, and scores of each game with an easy to use web app. 
+  Track your favorite NBA team as they progress through the season. Track wins, losses, and scores of each game with an easy to use web app.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -23,7 +23,7 @@
   
       
   ## Contributors
-  undefined
+  Andrew Surrena, Luke Giroux
       
   ## Tests
   
