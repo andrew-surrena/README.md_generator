@@ -41,7 +41,7 @@ const questions = [
     {
       type: 'input',
       message: 'Please add a list of contributers.',
-      name: 'contrubutors',
+      name: 'contributors',
     },
     //Tests
     {
